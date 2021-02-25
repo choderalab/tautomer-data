@@ -1,5 +1,6 @@
 # tautomer-data
 A repo that includes all the data for the 'Fitting quantum machine learning potentials to experimental free energy data: Predicting tautomer ratios in solution' manuscript
+[![DOI](https://zenodo.org/badge/341970689.svg)](https://zenodo.org/badge/latestdoi/341970689)
 
 # Data
 
